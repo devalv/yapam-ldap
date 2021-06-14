@@ -1,0 +1,4 @@
+ldap3==2.8.1
+yapam
+pre-commit
+httpx
